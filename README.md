@@ -1,2 +1,2 @@
 # RoketGondericiKod
-Teknofest 2025 Roket Yarışması - aviyonik gönderici kartı Arduino kodu
+2025 TEKNOFEST Roket Yarışması Orta İrtifa Kategorisi Uçuş Kontrol Bilgisayarı Kodları
